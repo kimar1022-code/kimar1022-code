@@ -6,8 +6,22 @@
 시뮬레이션에서 검증하고 실물에서 부딪히는 걸 좋아합니다.
 잘 안 되면 추측 대신 측정으로 원인을 좁히고, 그 과정을 문서로 남기려고 합니다.
 
-주로 쓰는 것: Python, C#, C / ROS2 Jazzy, Nav2, OpenCV / Unity / Raspberry Pi, Arduino
-협업 툴: Jira, Confluence, Slack
+### 기술 스택
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,c,ros,unity,opencv,pytorch,raspberrypi,arduino,linux,git" alt="Python, C#, C, ROS2, Unity, OpenCV, PyTorch, Raspberry Pi, Arduino, Linux, Git" />
+</p>
+
+Python · C# · C / ROS2 Jazzy · Nav2 · OpenCV / Unity / Raspberry Pi · Arduino
+
+### 협업 툴
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ## 프로젝트
 
