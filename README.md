@@ -1,70 +1,34 @@
-# 안녕하세요, Aeri Kim입니다 👋
+# Aeri Kim
 
-> Unity 기반 실시간 시뮬레이션과 로보틱스를 다루는 임베디드 엔지니어를 꿈꾸고 있습니다.
+로보틱스를 공부하고 있습니다. Unity 디지털 트윈으로 시작해서
+지금은 ROS2 기반 실물 로봇(자율주행, 임베디드)을 주로 다루고 있습니다.
 
----
+시뮬레이션에서 검증하고 실물에서 부딪히는 걸 좋아합니다.
+잘 안 되면 추측 대신 측정으로 원인을 좁히고, 그 과정을 문서로 남기려고 합니다.
 
-## 🎯 About Me
+주로 쓰는 것: Python, C#, C / ROS2 Jazzy, Nav2, OpenCV / Unity / Raspberry Pi, Arduino
 
-산업용 협동로봇 디지털 트윈부터 AI 학습 기반 로봇 제어, 컴퓨터 비전, 업무 시스템까지 — 다양한 도메인에서 **실제로 동작하는 시스템**을 직접 구축하며 학습하고 있습니다.
+## 프로젝트
 
-- 🤖 **로봇 시뮬레이션 & 디지털 트윈** — Unity 기반 산업용 협동로봇 제어
-- 🧠 **AI 로보틱스** — Hugging Face LeRobot 기반 분산 제어 시스템
-- 👁️ **컴퓨터 비전** — OpenCV 기반 실시간 모션 인식
-- 📊 **시뮬레이션 & 데이터 시각화** — 16대 드론 동시 시뮬레이션 + 실시간 그래프
-- 💼 **업무 시스템 설계** — 병원 키오스크 시스템 풀스택 구현
+[turtlebot3-ai-safety-patrol](https://github.com/kimar1022-code/turtlebot3-ai-safety-patrol)
+— TurtleBot3 3대가 물류센터를 무인 순찰하는 5인 팀 프로젝트에서 자율주행 파트 담당.
+순찰 FSM, ±2mm 정밀 충전 도킹, 배터리 기반 2대 자동 교대까지 실기 검증.
+주행 성공률 30%를 100%로 끌어올린 문제 해결 기록을 함께 담았습니다.
 
----
+[autonomous-exploration-robot](https://github.com/kimar1022-code/autonomous-exploration-robot)
+— 키트가 아니라 직접 만든 4WD 로봇을 ROS2에 연결하는 개인 프로젝트.
+모터·엔코더·IMU 펌웨어부터 UART 프로토콜, odometry, LiDAR까지. SLAM/Nav2 올리는 중.
 
-## 🛠️ Tech Stack
+[fairino-fr5-digital-twin](https://github.com/kimar1022-code/fairino-fr5-digital-twin) /
+[v2](https://github.com/kimar1022-code/fairino-fr5-digital-twin-v2)
+— 산업용 협동로봇 FR5와 Unity를 실시간 동기화하는 디지털 트윈.
+DLS Jacobian IK 직접 구현, Mirror 동기화 패턴. v2는 UI를 16개 패널로 모듈화하고
+PLC 티칭·웨이포인트 녹화/재생을 추가한 재설계 버전.
 
-**Languages**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+[smart-factory-soarm101](https://github.com/kimar1022-code/smart-factory-soarm101)
+— SO-ARM101 협동로봇 2대를 LeRobot SDK + 라즈베리파이 + Unity로 분산 제어.
+TCP/JSON 프로토콜 직접 설계.
 
-**Engines & Frameworks**  
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+## 연락처
 
-**Robotics**  
-![LeRobot](https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square)
-![URDF](https://img.shields.io/badge/URDF-blue?style=flat-square)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-
-**Hardware & Embedded**  
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [Fairino FR5 Digital Twin](https://github.com/kimar1022-code/fairino-fr5-digital-twin)
-산업용 협동로봇 FR5와 Unity 시뮬레이터를 동기화하는 디지털 트윈 시스템. DLS Jacobian IK 솔버 직접 구현, XML-RPC 기반 실로봇 통신, Mirror 모드 동기화 패턴 설계.
-
-### 🏭 [Smart Factory: Dual SO-ARM101](https://github.com/kimar1022-code/smart-factory-soarm101)
-LeRobot SDK + 라즈베리파이 + Unity로 구성한 두 대의 협동로봇 분산 제어 시스템. TCP/JSON 프로토콜 직접 설계.
-
-### 🚁 [Drone Flight Simulator](https://github.com/kimar1022-code/drone-flight-simulator)
-16대 드론 동시 비행 + 실시간 Transform 그래프 시각화. 60fps 유지를 위한 오브젝트 풀링·데이터 최적화 적용.
-
-### 👁️ [Avatar Motion Controller](https://github.com/kimar1022-code/avatar-motion-controller)
-OpenCV 기반 색상 추적으로 아바타를 실시간 제어. HSV 색공간 + 시간 기반 패턴 분석으로 Idle/Walk/Run 자동 전환.
-
-### 🏥 [Smart Hospital Kiosk](https://github.com/kimar1022-code/smart-hospital-kiosk)
-실제 병원 키오스크 흐름을 반영한 업무 시스템. 진료과별 독립 대기 큐, 다중 진료과 수납, 영수증 출력 구현.
-
----
-
-## 📫 Contact
-
-- **Email**: kimar1022@gmail.com
-- **GitHub**: [@kimar1022-code](https://github.com/kimar1022-code)
-
----
-
-<p align="center">
-  <i>"좋은 엔지니어는 동작하는 코드를 만들고, 훌륭한 엔지니어는 다른 사람이 이해할 수 있는 시스템을 만든다."</i>
-</p>
+kimar1022@gmail.com
