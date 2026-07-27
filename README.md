@@ -7,6 +7,7 @@
 잘 안 되면 추측 대신 측정으로 원인을 좁히고, 그 과정을 문서로 남기려고 합니다.
 
 주로 쓰는 것: Python, C#, C / ROS2 Jazzy, Nav2, OpenCV / Unity / Raspberry Pi, Arduino
+협업 툴: Jira, Confluence, Slack
 
 ## 프로젝트
 
