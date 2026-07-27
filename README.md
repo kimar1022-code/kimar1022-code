@@ -12,8 +12,9 @@
 ## 프로젝트
 
 [turtlebot3-ai-safety-patrol](https://github.com/kimar1022-code/turtlebot3-ai-safety-patrol)
-— TurtleBot3 3대가 물류센터를 무인 순찰하는 5인 팀 프로젝트에서 자율주행 파트 담당.
+— TurtleBot3 3대가 물류센터를 무인 순찰하는 5인 팀 프로젝트에서 자율주행 파트와 하드웨어 확장 담당.
 순찰 FSM, ±2mm 정밀 충전 도킹, 배터리 기반 2대 자동 교대까지 실기 검증.
+지게차 리프트(3D 프린팅 랙앤피니언)와 마그네틱 포고핀 충전 단자도 직접 제작.
 주행 성공률 30%를 100%로 끌어올린 문제 해결 기록을 함께 담았습니다.
 
 [autonomous-exploration-robot](https://github.com/kimar1022-code/autonomous-exploration-robot)
