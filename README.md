@@ -9,10 +9,16 @@
 ### 기술 스택
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,c,ros,unity,opencv,pytorch,raspberrypi,arduino,linux,git" alt="Python, C#, C, ROS2, Unity, OpenCV, PyTorch, Raspberry Pi, Arduino, Linux, Git" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,ros,unity,opencv,pytorch,raspberrypi,arduino,linux,bash,git" alt="Python, C#, C++, C, ROS2, Unity, OpenCV, PyTorch, Raspberry Pi, Arduino, Linux, Bash, Git" />
 </p>
 
-Python · C# · C / ROS2 Jazzy · Nav2 · OpenCV / Unity / Raspberry Pi · Arduino
+| 분야 | 내용 |
+| --- | --- |
+| Robotics | ROS 2 (Jazzy / Humble) · Nav2 · SLAM · AMCL · MoveIt2 · TF2 / URDF · CycloneDDS · LeRobot · Fairino FR5 SDK |
+| Language | Python · C# (Unity) · Arduino C · Bash · C++ (기초) |
+| Vision | OpenCV · ArUco · 카메라 캘리브레이션 · YOLO · 비전-모션 연동 |
+| Hardware / Control | Raspberry Pi · Arduino · UART · GPIO / PWM · 모터 · 엔코더 · IMU · DYNAMIXEL XL430 · STS3215 버스 서보 · Modbus-RTU |
+| Tools | Linux · Git / GitHub · Unity · TCP / UDP · Jira / Confluence · Slack |
 
 ### 협업 툴
 
