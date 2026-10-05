@@ -12,7 +12,7 @@ LeKiwi 모바일 매니퓰레이터를 만들었습니다. 팀 프로젝트에�
   <img src="https://skillicons.dev/icons?i=python,cs,cpp,c,ros,unity,opencv,pytorch,raspberrypi,arduino,linux,bash,git" alt="Python, C#, C++, C, ROS2, Unity, OpenCV, PyTorch, Raspberry Pi, Arduino, Linux, Bash, Git" />
 </p>
 
-| 분야 <img src="docs/images/layout/w100.png" width="100%" height="1"> | 내용 <img src="docs/images/layout/w900.png" width="100%" height="1"> |
+| 분야 <img src="docs/images/layout/w400.png" width="100%" height="1"> | 내용 <img src="docs/images/layout/w2600.png" width="100%" height="1"> |
 | --- | --- |
 | Robotics | ROS 2 (Jazzy / Humble) · Nav2 · SLAM · AMCL · MoveIt2 · TF2 / URDF · CycloneDDS · LeRobot · Fairino FR5 SDK |
 | Language | Python · C# (Unity) · Arduino C · Bash · C++ (기초) |
