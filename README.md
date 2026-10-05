@@ -52,7 +52,7 @@ DLS Jacobian IK 직접 구현, Mirror 동기화 패턴. v2는 UI를 16개 패널
 PLC 티칭 · 웨이포인트 녹화/재생을 추가한 재설계 버전.
 
 [smart-factory-soarm101](https://github.com/kimar1022-code/smart-factory-soarm101) - SO-ARM101 협동로봇 2대를 LeRobot SDK + 라즈베리파이 + Unity로 분산 제어.
-TCP/JSON 프로토콜 직접 설계. 글로벌캠이 위치를 찾고 손목캠이 마지막 정렬을 맡는
+TCP / JSON 프로토콜 직접 설계. 글로벌캠이 위치를 찾고 손목캠이 마지막 정렬을 맡는
 2단계 비전으로 색 블록을 집어 접시에 분류.
 
 ## 연락처
